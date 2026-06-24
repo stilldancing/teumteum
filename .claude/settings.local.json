@@ -4,7 +4,13 @@
       "Bash(npm --version)",
       "Bash(curl -fsSL https://claude.ai/install.sh)",
       "Bash(bash)",
-      "Bash(echo 'export PATH=\"$HOME/.local/bin:$PATH\"' >> ~/.zshrc)"
+      "Bash(echo 'export PATH=\"$HOME/.local/bin:$PATH\"' >> ~/.zshrc)",
+      "Bash(curl -sI -L \"https://www.google.com/maps?q=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%98%A5%EC%A0%95%EC%84%9C%EB%A1%9C%20210&output=embed\")",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Read(//Users/rosso/**)",
+      "Bash(git config *)",
+      "WebFetch(domain:zippy-monstera-8e9755.netlify.app)"
     ]
   }
 }
