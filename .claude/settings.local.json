@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(curl -fsSL https://claude.ai/install.sh)",
+      "Bash(bash)",
+      "Bash(echo 'export PATH=\"$HOME/.local/bin:$PATH\"' >> ~/.zshrc)"
+    ]
+  }
+}
